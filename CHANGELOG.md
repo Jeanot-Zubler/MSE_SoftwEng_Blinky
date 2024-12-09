@@ -1,5 +1,12 @@
 # CHANGELOG.md
 
+## v0.0.5
+Fixes:
+ - Update serial number of debug probe
+
+Features:
+ - none
+
 ## v0.0.4
 Fixes:
  - fixed LED test
